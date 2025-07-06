@@ -1,6 +1,6 @@
 # ted-talks-dashboard-datalens
 
-**Интерактивный дашборд**: [Посмотреть в DataLens](https://datalens.yandex.cloud/luacdsqcb9xq7)
+**Интерактивный дашборд**: [Посмотреть в DataLens](https://datalens.yandex/luacdsqcb9xq7)
 
 # Название проекта
 # Анализ выступлений на конференциях TED | Дашборд в DataLens
